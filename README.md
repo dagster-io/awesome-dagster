@@ -21,6 +21,8 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 ## Learning Material
 
 - [Dagster University: Dagster Essentials](https://courses.dagster.io/courses/dagster-essentials) - A course for learning the basics of Dagster
+- [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform) - A full-sized Dagster project that contains real assets that are used by the Dagster Labs team
+- [Dagster Labs: DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - Example projects shared by the Developer Relations team at Dagster
 
 ### Articles
 
@@ -37,7 +39,6 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 - [Dagster Slack](https://dagster.io/slack) - Join the community and Dagster Labs team members on Slack
 - [Dagster Github Discussion](https://github.com/dagster-io/dagster/discussions) - Discuss features and contributions on GitHub
-
 
 ## Company Projects
 
