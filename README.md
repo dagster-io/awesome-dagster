@@ -4,7 +4,7 @@
 
 ![Contributors Badge](https://img.shields.io/github/contributors/dagster-io/awesome-dagster.svg)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/dagster-io/awesome-dagster)
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Awesome Dagster
 
@@ -15,6 +15,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
     - [Talks](#talks)
     - [Tutorials](#tutorials)
 - [Discussion](#discussion)
+- [Community](#community)
 - [Companies Using Dagster](#company-projects)
 
 ## Learning Material
@@ -23,14 +24,20 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ### Articles
 
+- [The Dagster Blog](https://dagster.io/blog) - Stay up to date on content from Dagster Labs
+
 ### Talks
 
 ### Tutorials
 
 ## Discussion
 
+
+## Community
+
 - [Dagster Slack](https://dagster.io/slack) - Join the community and Dagster Labs team members on Slack
 - [Dagster Github Discussion](https://github.com/dagster-io/dagster/discussions) - Discuss features and contributions on GitHub
+
 
 ## Company Projects
 
