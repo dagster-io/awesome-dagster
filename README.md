@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Awesome Dagster" src="https://github.com/dagster-io/awesome-dagster/assets/5807118/3e6fa30b-42df-4466-bfd1-a54e95301378" width="auto" height="100%">
+    <img alt="Awesome Dagster" src="https://github.com/dagster-io/awesome-dagster/assets/5807118/3e6fa30b-42df-4466-bfd1-a54e95301378">
 </div>
 
 ![Contributors Badge](https://img.shields.io/github/contributors/dagster-io/awesome-dagster.svg)
