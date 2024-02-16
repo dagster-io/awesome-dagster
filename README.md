@@ -6,29 +6,33 @@
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/dagster-io/awesome-dagster)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-## Awesome Dagster
+# Awesome Dagster
 
 A collection of all things awesome related to the [Dagster](https://dagster.io) ecosystem!
 
-- [Dagster](#dagster)
-  - [Learning Material](#learning-material)
-  - [Discussion](#discussion)
-  - [Companies Using Dagster](#company-projects)
+- [Learning Material](#learning-material)
+    - [Articles](#articles)
+    - [Talks](#talks)
+    - [Tutorials](#tutorials)
+- [Discussion](#discussion)
+- [Companies Using Dagster](#company-projects)
 
-### Dagster
-
-#### Learning Material
+## Learning Material
 
 - [Dagster University: Dagster Essentials](https://courses.dagster.io/courses/dagster-essentials) - A course for learning the basics of Dagster
 
-#### Community
+### Articles
 
-##### Discussion
+### Talks
+
+### Tutorials
+
+## Discussion
 
 - [Dagster Slack](https://dagster.io/slack) - Join the community and Dagster Labs team members on Slack
 - [Dagster Github Discussion](https://github.com/dagster-io/dagster/discussions) - Discuss features and contributions on GitHub
 
-##### Company Projects
+## Company Projects
 
 - Bestplace - [Building a Modern Data Analytics Platform with Dagster](https://youtu.be/9WKtBFg2bUo)
 - Doordash - [Increasing Operational Efficiency with Scalable Forecasting](https://doordash.engineering/2021/08/31/increasing-operational-efficiency-with-scalable-forecasting/)
