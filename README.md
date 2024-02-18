@@ -14,6 +14,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
     - [Articles](#articles)
     - [Talks](#talks)
     - [Tutorials](#tutorials)
+    - [Projects](#projects)
 - [Discussion](#discussion)
 - [Community](#community)
 - [Companies Using Dagster](#company-projects)
@@ -31,7 +32,16 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ### Talks
 
+- [Big Data Madison](https://docs.google.com/presentation/d/1Wpv3iAYp_7NBD9ya1wZyavkuFr1eZIkeRwu8qhZFBxs/edit#slide=id.p)
+
+
 ### Tutorials
+
+### Projects
+- [Coches.net Dashboard](https://github.com/franloza/coches-net-dashboard)
+- [Practical Data Engineering Project](https://github.com/sspaeti-com/practical-data-engineering)
+- [Portable Data Stack](https://github.com/cnstlungu/portable-data-stack-dagster)
+- [Dagster Graph Project](https://github.com/sephib/dagster-graph-project)
 
 ## Discussion
 
