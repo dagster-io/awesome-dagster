@@ -29,6 +29,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 ### Articles
 
 - [The Dagster Blog](https://dagster.io/blog) - Stay up to date on content from Dagster Labs
+- [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
 
 ### Talks
 
