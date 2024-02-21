@@ -43,6 +43,11 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Practical Data Engineering Project](https://github.com/sspaeti-com/practical-data-engineering)
 - [Portable Data Stack](https://github.com/cnstlungu/portable-data-stack-dagster)
 - [Dagster Graph Project](https://github.com/sephib/dagster-graph-project)
+- [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform)
+- [MIT Open Learning](https://github.com/mitodl/ol-data-platform/tree/main/src/ol_orchestrate)
+- [Catalyst Cooperative PUDL](https://github.com/catalyst-cooperative/pudl)
+- [Datadex](https://github.com/datonic/datadex)
+- [Anomstack](https://github.com/andrewm4894/anomstack)
 
 ## Discussion
 
