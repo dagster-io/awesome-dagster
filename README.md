@@ -71,3 +71,11 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - VMware - [Monitoring Driven Development with Dagster](https://youtu.be/fYJBN6MAtbE?t=368)
 
 For more awesome projects see the community meetings [Community Member Showcase](https://www.youtube.com/playlist?list=PLJPgfrjmzQFMhSPjcbQir3LBZ7aiOpa1m)!
+
+## Non English Resources
+
+- [Dagster Cloudの導入チュートリアル](https://techblog.raksul.com/entry/2022/12/02/101007)
+- [データオーケストレーションツールDagsterの紹介](https://zenn.dev/datamarket/articles/dagster_cloud)
+- [ゼロから始めるDagster・すぐに使える実践ガイド](https://zenn.dev/datamarket/articles/dagster_guide)
+- [データ分析基盤をdbt・Snowflakeに移行する](https://tech.algoage.dmm.com/entry/2023/10/04/213954)
+- [Dagster Cloudで運用するdbt : オーケストレーションツールの技術選定、および4ヶ月運用してわかったメリットとデメリット](https://contradiction29.hatenablog.com/entry/2023/12/19/210000)
