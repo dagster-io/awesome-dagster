@@ -30,6 +30,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 - [The Dagster Blog](https://dagster.io/blog) - Stay up to date on content from Dagster Labs
 - [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
+- [Dagster, dbt, duckdb as new local MDS](https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/) - turn the PaaS into an implementation detail and profit from software engineering best practices
 
 ### Talks
 
