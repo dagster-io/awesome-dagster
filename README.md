@@ -25,15 +25,23 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform) - A full-sized Dagster project that contains real assets that are used by the Dagster Labs team
 - [Dagster Labs: DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - Example projects shared by the Developer Relations team at Dagster
 - [A Dagster Crash Course](https://dagster.io/blog/dagster-crash-course-oct-2022) - A crash course of Dagster from Pete Hunt
+- [Data Engineering Vault](https://www.ssp.sh/brain/dagster/) - Data engineering concepts related to Dagster (see graph and backlinks).
 
 ### Articles
 
 - [The Dagster Blog](https://dagster.io/blog) - Stay up to date on content from Dagster Labs
 - [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
 - [Dagster, dbt, duckdb as new local MDS](https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/) - turn the PaaS into an implementation detail and profit from software engineering best practices
+- [Building Real-Estate Data Engineering Project](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/) - Web-scraping with real-estates, uploading them to S3, Spark and Delta Lake, adding Data Science with Jupyter, ingesting into Druid, visualising with Superset and managing everything with Dagster.
+- [Dagster 1.0 Launch Recap](https://airbyte.com/blog/dagster-1-0-launch) - A recap of the Dagster 1.0 launch.
+- [The Open Data Stack Distilled into Four Core Tools](https://airbyte.com/blog/modern-open-data-stack-four-core-tools) - Airbyte, dbt, Metabase and Dagster.
+- [A History of Data Orchestration](https://www.dedp.online/part-2/4-ce/bash-stored-procedure-etl-python-script.html) - From bash to stored procedures to ETL to Python scripts including Dagster.
 
 ### Talks
 
+- [Data Engineering Podcast - Build Maintainable And Testable Data Applications With Dagster - Episode 104](https://www.dataengineeringpodcast.com/dagster-data-applications-episode-104/) _October 28, 2019_: Fist podcast about Dagster where Nick Schrock the founder explains the motivation and the story behind Dagster.
+- [Software Engineering Daily - Dagster with Nick Schrock](https://softwareengineeringdaily.com/2019/11/15/dagster-with-nick-schrock/) _November 15, 2019_: Second podcast with different insight from the software engineering perspective
+- [Python Podcast - Digging Into Dagster: An Opinionated Open Source Framework For Data Orchestration - Episode 279](https://www.pythonpodcast.com/dagster-data-orchestration-episode-279/) _September 7, 2020_: Update on Dagster after a year.
 - [Big Data Madison](https://docs.google.com/presentation/d/1Wpv3iAYp_7NBD9ya1wZyavkuFr1eZIkeRwu8qhZFBxs/edit#slide=id.p)
 
 
