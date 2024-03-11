@@ -27,6 +27,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Dagster Labs: DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - Example projects shared by the Developer Relations team at Dagster
 - [A Dagster Crash Course](https://dagster.io/blog/dagster-crash-course-oct-2022) - A crash course of Dagster from Pete Hunt
 - [Data Engineering Vault](https://www.ssp.sh/brain/dagster/) - Data engineering concepts related to Dagster (see graph and backlinks).
+- [Dagster DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - A collection of projects and presentations from Dagster's devrel team
 
 ### Articles
 
@@ -49,6 +50,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 ### Tutorials
 
 ### Projects
+
 - [Coches.net Dashboard](https://github.com/franloza/coches-net-dashboard)
 - [Practical Data Engineering Project](https://github.com/sspaeti-com/practical-data-engineering)
 - [Portable Data Stack](https://github.com/cnstlungu/portable-data-stack-dagster)
