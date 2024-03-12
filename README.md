@@ -60,6 +60,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Catalyst Cooperative PUDL](https://github.com/catalyst-cooperative/pudl)
 - [Datadex](https://github.com/datonic/datadex)
 - [Anomstack](https://github.com/andrewm4894/anomstack)
+- [dagster-nomad Nomad launcher/executor for Dagster](https://github.com/paylead/dagster-nomad)
 
 ## Discussion
 
