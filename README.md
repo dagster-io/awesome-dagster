@@ -45,7 +45,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Software Engineering Daily - Dagster with Nick Schrock](https://softwareengineeringdaily.com/2019/11/15/dagster-with-nick-schrock/) _November 15, 2019_: Second podcast with different insight from the software engineering perspective
 - [Python Podcast - Digging Into Dagster: An Opinionated Open Source Framework For Data Orchestration - Episode 279](https://www.pythonpodcast.com/dagster-data-orchestration-episode-279/) _September 7, 2020_: Update on Dagster after a year.
 - [Big Data Madison](https://docs.google.com/presentation/d/1Wpv3iAYp_7NBD9ya1wZyavkuFr1eZIkeRwu8qhZFBxs/edit#slide=id.p)
-
+- [CNCF - Ditching Data Pipelines: Why Treating Data as Assets is the Best - Andrea Giardini](https://www.youtube.com/watch?v=PCLcIbPnS3c)
 
 ### Tutorials
 
@@ -63,7 +63,6 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [dagster-nomad Nomad launcher/executor for Dagster](https://github.com/paylead/dagster-nomad)
 
 ## Discussion
-
 
 ## Community
 
