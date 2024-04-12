@@ -61,6 +61,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Datadex](https://github.com/datonic/datadex)
 - [Anomstack](https://github.com/andrewm4894/anomstack)
 - [dagster-nomad Nomad launcher/executor for Dagster](https://github.com/paylead/dagster-nomad)
+- [Dagster Demo](https://github.com/kahnwong/dagster-demo) - A working dagster demo with medallion architecture, partitioned data, schedules, assets dependencies, job status alerts and auto-materialize assets.
 
 ## Discussion
 
