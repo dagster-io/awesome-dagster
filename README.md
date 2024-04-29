@@ -49,8 +49,8 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ### Tutorials
 
-- [“How to Fine-Tune LLMs in 2024 with Hugging Face”, but with Dagster, Modal and
-    Llama3!](https://kyrylai.com/2024/04/21/how-to-fine-tune-llms-in-2024-with-hugging-face-but-with-dagster-and-modal/)
+- [“How to Fine-Tune LLMs in 2024 with Hugging Face”, but with Dagster, Modal and Llama3!](https://kyrylai.com/2024/04/21/how-to-fine-tune-llms-in-2024-with-hugging-face-but-with-dagster-and-modal/) - Kyryl Truskovskyi | April 21, 2024
+- [Complete Guide To Deploy Multiple Data Pipelines on AWS ECS](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-on-aws-ecs-1b4320064ad0) - Ibrahim Koyuncu | April 24, 2024
 
 ### Projects
 
