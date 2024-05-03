@@ -13,7 +13,6 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Learning Material](#learning-material)
     - [Articles](#articles)
     - [Talks](#talks)
-    - [Tutorials](#tutorials)
     - [Projects](#projects)
 - [Discussion](#discussion)
 - [Community](#community)
@@ -28,16 +27,18 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [A Dagster Crash Course](https://dagster.io/blog/dagster-crash-course-oct-2022) - A crash course of Dagster from Pete Hunt
 - [Data Engineering Vault](https://www.ssp.sh/brain/dagster/) - Data engineering concepts related to Dagster (see graph and backlinks).
 - [Dagster DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - A collection of projects and presentations from Dagster's devrel team
+- [A History of Data Orchestration](https://www.dedp.online/part-2/4-ce/bash-stored-procedure-etl-python-script.html) - From bash to stored procedures to ETL to Python scripts including Dagster.
 
 ### Articles
 
-- [The Dagster Blog](https://dagster.io/blog) - Stay up to date on content from Dagster Labs
-- [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
-- [Dagster, dbt, duckdb as new local MDS](https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/) - turn the PaaS into an implementation detail and profit from software engineering best practices
-- [Building Real-Estate Data Engineering Project](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/) - Web-scraping with real-estates, uploading them to S3, Spark and Delta Lake, adding Data Science with Jupyter, ingesting into Druid, visualising with Superset and managing everything with Dagster.
-- [Dagster 1.0 Launch Recap](https://airbyte.com/blog/dagster-1-0-launch) - A recap of the Dagster 1.0 launch.
-- [The Open Data Stack Distilled into Four Core Tools](https://airbyte.com/blog/modern-open-data-stack-four-core-tools) - Airbyte, dbt, Metabase and Dagster.
-- [A History of Data Orchestration](https://www.dedp.online/part-2/4-ce/bash-stored-procedure-etl-python-script.html) - From bash to stored procedures to ETL to Python scripts including Dagster.
+- [The Dagster Blog](https://dagster.io/blog)
+- [Building a Data Engineering Project in 20 Minutes](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/) - September 3, 2021
+- [Dagster 1.0 Launch Recap](https://airbyte.com/blog/dagster-1-0-launch) - Simon Späti | August 11, 2022
+- [The Open Data Stack Distilled into Four Core Tools](https://airbyte.com/blog/modern-open-data-stack-four-core-tools) - Simon Späti | January 3, 2023
+- [Dagster, dbt, duckdb as new local MDS](https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/) - Aleksandar Milicevic, Georg Heiler | December 11, 2023
+- [“How to Fine-Tune LLMs in 2024 with Hugging Face”, but with Dagster, Modal and Llama3!](https://kyrylai.com/2024/04/21/how-to-fine-tune-llms-in-2024-with-hugging-face-but-with-dagster-and-modal/) - Kyryl Truskovskyi | April 21, 2024
+- [Complete Guide To Deploy Multiple Data Pipelines on AWS ECS](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-on-aws-ecs-1b4320064ad0) - Ibrahim Halil Koyuncu | April 24, 2024
+- [Cost efficient alternative to databricks lock-in](https://georgheiler.com/2024/05/02/cost-efficient-alternative-to-databricks-lock-in/) - Georg Heiler, Hernan Picatto | May 3, 2024
 
 ### Talks
 
@@ -46,11 +47,6 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Python Podcast - Digging Into Dagster: An Opinionated Open Source Framework For Data Orchestration - Episode 279](https://www.pythonpodcast.com/dagster-data-orchestration-episode-279/) _September 7, 2020_: Update on Dagster after a year.
 - [Big Data Madison](https://docs.google.com/presentation/d/1Wpv3iAYp_7NBD9ya1wZyavkuFr1eZIkeRwu8qhZFBxs/edit#slide=id.p)
 - [CNCF - Ditching Data Pipelines: Why Treating Data as Assets is the Best - Andrea Giardini](https://www.youtube.com/watch?v=PCLcIbPnS3c)
-
-### Tutorials
-
-- [“How to Fine-Tune LLMs in 2024 with Hugging Face”, but with Dagster, Modal and Llama3!](https://kyrylai.com/2024/04/21/how-to-fine-tune-llms-in-2024-with-hugging-face-but-with-dagster-and-modal/) - Kyryl Truskovskyi | April 21, 2024
-- [Complete Guide To Deploy Multiple Data Pipelines on AWS ECS](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-on-aws-ecs-1b4320064ad0) - Ibrahim Halil Koyuncu | April 24, 2024
 
 ### Projects
 
@@ -65,6 +61,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Anomstack](https://github.com/andrewm4894/anomstack)
 - [dagster-nomad Nomad launcher/executor for Dagster](https://github.com/paylead/dagster-nomad)
 - [Dagster Demo](https://github.com/kahnwong/dagster-demo) - A working dagster demo with medallion architecture, partitioned data, schedules, assets dependencies, job status alerts and auto-materialize assets.
+- [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
 
 ## Discussion
 
