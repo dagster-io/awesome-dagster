@@ -39,6 +39,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [“How to Fine-Tune LLMs in 2024 with Hugging Face”, but with Dagster, Modal and Llama3!](https://kyrylai.com/2024/04/21/how-to-fine-tune-llms-in-2024-with-hugging-face-but-with-dagster-and-modal/) - Kyryl Truskovskyi | April 21, 2024
 - [Complete Guide To Deploy Multiple Data Pipelines on AWS ECS](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-on-aws-ecs-1b4320064ad0) - Ibrahim Halil Koyuncu | April 24, 2024
 - [Cost efficient alternative to databricks lock-in](https://georgheiler.com/2024/05/02/cost-efficient-alternative-to-databricks-lock-in/) - Georg Heiler, Hernan Picatto | May 3, 2024
+- [RLHF with Dagster and Modal](https://kyrylai.com/2024/06/10/rlhf-with-dagster-and-modal/) - Kyryl Truskovskyi | June 10, 2024 
 
 ### Talks
 
