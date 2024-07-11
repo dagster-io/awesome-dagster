@@ -65,6 +65,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [dagster-nomad Nomad launcher/executor for Dagster](https://github.com/paylead/dagster-nomad)
 - [Dagster Demo](https://github.com/kahnwong/dagster-demo) - A working dagster demo with medallion architecture, partitioned data, schedules, assets dependencies, job status alerts and auto-materialize assets.
 - [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
+- [Dagster Utilities](https://github.com/caelan-schneider/dagster_utilities) - Basic utilities for handling production vs local Dagster instances, importing jobs and schedules into your Definitions object, and more. 
 
 ## Discussion
 
