@@ -69,6 +69,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
 - [Dagster Utilities](https://github.com/caelan-schneider/dagster_utilities) - Basic utilities for handling production vs local Dagster instances, importing jobs and schedules into your Definitions object, and more.
 - [Dagster + Mflix ELT Project](https://github.com/jayzern/dagster-mflix-demo) - A working demo of Dagster, dlt and Snowflake for ELT
+- [Bike Rental Data Pipeline with Weather Data](https://github.com/extrm-gn/DE-Bike-rental)
 
 ## Discussion
 
