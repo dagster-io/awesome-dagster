@@ -45,6 +45,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Building a po' boy's spatial data pipeline from scratch with Dagster, GeoParquet, & R2](https://alexlowellmartin.com/building-a-po-boys-spatial-data-pipeline-from-scratch-with-dagster-geoparquet-r2-2/) - Alex Lowell Martin | July 16, 2024
 - [Data Stack in a Box — New South Wales Department of Education (ft. DuckDB, Dagster, dbt, dlt and Evidence.dev)](https://davidgriffiths-data.medium.com/data-stack-in-a-box-new-south-wales-department-of-education-ft-e2bd12840d3e) - David Griffiths | Jul 21, 2024
 - [Remove Complexity from Your RAG Applications (Modal, LanceDB, and Dagster)](https://kyrylai.com/2024/09/09/remove-complexity-from-your-rag-applications/) - Kyryl Truskovskyi | Sep 9, 2024
+- [Orchestrating an AI Agent Prototype with Hex, Dagster, and LangChain](https://blog.republicofdata.io/orchestrating-an-ai-agent-prototype-with-hex-dagster-and-langchain-2/) - Olivier Dupuis | Oct 6, 2024
 
 ### Talks
 
