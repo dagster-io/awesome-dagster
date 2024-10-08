@@ -73,6 +73,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Dagster + Mflix ELT Project](https://github.com/jayzern/dagster-mflix-demo) - A working demo of Dagster, dlt and Snowflake for ELT
 - [Bike Rental Data Pipeline with Weather Data](https://github.com/extrm-gn/DE-Bike-rental)
 - [Orchestrating ML Workloads with Modal and Dagster](https://github.com/cmpadden/dagster-modal-demo)
+- [Filecoin Data Portal - Running Dagster and dbt inside a Github Action] (https://github.com/davidgasquez/filecoin-data-portal)
 
 ## Discussion
 
