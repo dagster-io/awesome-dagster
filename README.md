@@ -74,6 +74,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Bike Rental Data Pipeline with Weather Data](https://github.com/extrm-gn/DE-Bike-rental)
 - [Orchestrating ML Workloads with Modal and Dagster](https://github.com/cmpadden/dagster-modal-demo)
 - [Filecoin Data Portal - Running Dagster and dbt inside a Github Action](https://github.com/davidgasquez/filecoin-data-portal)
+- [Pipes for PostgreSQL UDF](https://github.com/marijncv/pg-pipes)
 
 ## Discussion
 
