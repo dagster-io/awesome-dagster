@@ -75,6 +75,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Orchestrating ML Workloads with Modal and Dagster](https://github.com/cmpadden/dagster-modal-demo)
 - [Filecoin Data Portal - Running Dagster and dbt inside a Github Action](https://github.com/davidgasquez/filecoin-data-portal)
 - [Pipes for PostgreSQL UDF](https://github.com/marijncv/pg-pipes)
+- [NCAA Basketball Stats Dagster Project](https://github.com/EvanZ/ncaam-dagster-jobs) and [Supplementary video](https://www.youtube.com/watch?v=s8F-w91J9t8)
 
 ## Discussion
 
