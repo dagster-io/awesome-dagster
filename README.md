@@ -46,6 +46,8 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Data Stack in a Box — New South Wales Department of Education (ft. DuckDB, Dagster, dbt, dlt and Evidence.dev)](https://davidgriffiths-data.medium.com/data-stack-in-a-box-new-south-wales-department-of-education-ft-e2bd12840d3e) - David Griffiths | Jul 21, 2024
 - [Remove Complexity from Your RAG Applications (Modal, LanceDB, and Dagster)](https://kyrylai.com/2024/09/09/remove-complexity-from-your-rag-applications/) - Kyryl Truskovskyi | Sep 9, 2024
 - [Orchestrating an AI Agent Prototype with Hex, Dagster, and LangChain](https://blog.republicofdata.io/orchestrating-an-ai-agent-prototype-with-hex-dagster-and-langchain-2/) - Olivier Dupuis | Oct 6, 2024
+- [Dagster: all the Ways you can Differentiate Assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) - Roel Hogervorst | November 7, 2024
+- [Test for Tags in Dagster](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) - Roel Hogervorst | November 19, 2024
 
 ### Talks
 
@@ -76,7 +78,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Filecoin Data Portal - Running Dagster and dbt inside a Github Action](https://github.com/davidgasquez/filecoin-data-portal)
 - [Pipes for PostgreSQL UDF](https://github.com/marijncv/pg-pipes)
 - [NCAA Basketball Stats Dagster Project](https://github.com/EvanZ/ncaam-dagster-jobs) and [Supplementary video](https://www.youtube.com/watch?v=s8F-w91J9t8)
-- [all the ways you can label your assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) [how to test your assets to enforce style guidelines](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) and finally a [repo with all labels (kinds, tags, metadata, owners) and tests for metadata (uses poetry](https://github.com/RMHogervorst/dagster_labeling_testing_example)
+- [Example Labeling and testing assets with Dagster (with Poetry)](https://github.com/RMHogervorst/dagster_labeling_testing_example)
 
 ## Discussion
 
