@@ -76,6 +76,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Filecoin Data Portal - Running Dagster and dbt inside a Github Action](https://github.com/davidgasquez/filecoin-data-portal)
 - [Pipes for PostgreSQL UDF](https://github.com/marijncv/pg-pipes)
 - [NCAA Basketball Stats Dagster Project](https://github.com/EvanZ/ncaam-dagster-jobs) and [Supplementary video](https://www.youtube.com/watch?v=s8F-w91J9t8)
+- [all the ways you can label your assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) [how to test your assets to enforce style guidelines](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) and finally a [repo with all labels (kinds, tags, metadata, owners) and tests for metadata (uses poetry](https://github.com/RMHogervorst/dagster_labeling_testing_example)
 
 ## Discussion
 
