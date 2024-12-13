@@ -79,6 +79,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Pipes for PostgreSQL UDF](https://github.com/marijncv/pg-pipes)
 - [NCAA Basketball Stats Dagster Project](https://github.com/EvanZ/ncaam-dagster-jobs) and [Supplementary video](https://www.youtube.com/watch?v=s8F-w91J9t8)
 - [Example Labeling and testing assets with Dagster (with Poetry)](https://github.com/RMHogervorst/dagster_labeling_testing_example)
+- [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://github.com/gbemike/nba_pipeline) and [An article on the project](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb)
 
 ## Discussion
 
