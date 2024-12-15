@@ -82,10 +82,9 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Example Labeling and testing assets with Dagster (with Poetry)](https://github.com/RMHogervorst/dagster_labeling_testing_example)
 - [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://github.com/gbemike/nba_pipeline)
 
-
 ## Discussion
 
-## Community
+### Community
 
 - [Dagster Slack](https://dagster.io/slack) - Join the community and Dagster Labs team members on Slack
 - [Dagster Github Discussion](https://github.com/dagster-io/dagster/discussions) - Discuss features and contributions on GitHub
