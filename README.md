@@ -48,7 +48,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Orchestrating an AI Agent Prototype with Hex, Dagster, and LangChain](https://blog.republicofdata.io/orchestrating-an-ai-agent-prototype-with-hex-dagster-and-langchain-2/) - Olivier Dupuis | Oct 6, 2024
 - [Dagster: all the Ways you can Differentiate Assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) - Roel Hogervorst | November 7, 2024
 - [Test for Tags in Dagster](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) - Roel Hogervorst | November 19, 2024
-- [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb) - Gbemike Olowe | June 14, 2024
+- [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb) - GBemike Olowe | June 14, 2024
 
 ### Talks
 
@@ -82,10 +82,9 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Example Labeling and testing assets with Dagster (with Poetry)](https://github.com/RMHogervorst/dagster_labeling_testing_example)
 - [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://github.com/gbemike/nba_pipeline)
 
-
 ## Discussion
 
-## Community
+### Community
 
 - [Dagster Slack](https://dagster.io/slack) - Join the community and Dagster Labs team members on Slack
 - [Dagster Github Discussion](https://github.com/dagster-io/dagster/discussions) - Discuss features and contributions on GitHub
