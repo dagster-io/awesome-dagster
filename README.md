@@ -84,6 +84,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://github.com/gbemike/nba_pipeline)
 - [Slack Data backup using Dagster, dlthub, and Iceberg](https://github.com/Kayrnt/dlt-iceberg-slack-backup/tree/main)
 - [Urban growth hotspots across Australia for $15](https://github.com/kubox-ai/urban-extent)
+- [Geoconnex.us Scheduler](https://github.com/internetofwater/scheduler) - Production web crawler using Dagster with CI/CD and Docker; Harvests US water data into a knowledge graph
 
 ## Discussion
 
