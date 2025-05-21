@@ -30,7 +30,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Dagster DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - A collection of projects and presentations from Dagster's devrel team
 - [A History of Data Orchestration](https://www.dedp.online/part-2/4-ce/bash-stored-procedure-etl-python-script.html) - From bash to stored procedures to ETL to Python scripts including Dagster.
 
-    ### Articles
+### Articles
 
 - [Test for Tags in Dagster](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) - Roel Hogervorst | November 19, 2024
 - [Dagster: all the Ways you can Differentiate Assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) - Roel Hogervorst | November 7, 2024
