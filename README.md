@@ -58,6 +58,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Python Podcast - Digging Into Dagster: An Opinionated Open Source Framework For Data Orchestration - Episode 279](https://www.pythonpodcast.com/dagster-data-orchestration-episode-279/) _September 7, 2020_: Update on Dagster after a year.
 - [Big Data Madison](https://docs.google.com/presentation/d/1Wpv3iAYp_7NBD9ya1wZyavkuFr1eZIkeRwu8qhZFBxs/edit#slide=id.p)
 - [CNCF - Ditching Data Pipelines: Why Treating Data as Assets is the Best - Andrea Giardini](https://www.youtube.com/watch?v=PCLcIbPnS3c)
+- [MDS Fest 3.0 - Abstractions: Enabling Data Teams Through Reduced Complexity - Colton Padden](https://www.secoda.co/mds-fest-3-0/abstractions-enabling-data-teams-through-reduced-complexity)
 
 ### Projects
 
