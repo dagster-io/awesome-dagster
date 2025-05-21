@@ -22,6 +22,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 - [Dagster University: Dagster Essentials](https://courses.dagster.io/courses/dagster-essentials) - A course for learning the basics of Dagster
 - [Dagster University: Dagster & dbt](https://courses.dagster.io/courses/dagster-dbt) - A course on how to use Dagster with dbt
+- [Dagster University: Testing with Dagster](https://courses.dagster.io/courses/dagster-testing) - A course on how to write tests with Dagster
 - [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform) - A full-sized Dagster project that contains real assets that are used by the Dagster Labs team
 - [Dagster Labs: DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - Example projects shared by the Developer Relations team at Dagster
 - [A Dagster Crash Course](https://dagster.io/blog/dagster-crash-course-oct-2022) - A crash course of Dagster from Pete Hunt
@@ -96,15 +97,17 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ## Company Projects
 
-- VMware - [Monitoring Driven Development with Dagster](https://youtu.be/fYJBN6MAtbE?t=368)
-- Prezi - [Migrating Data Pipelines to Dagster](https://youtu.be/-zv-wvbJXUM)
-- Mapbox - [Incrementally Adopting Dagster at Mapbox](https://dagster.io/blog/incremental-adoption-mapbox)
-- MIT Open Learning - [Running Dagster in Production](https://youtu.be/5wS7BpjtRlI)
-- LINE (Thailand) - [Build Data Application with Dagster](https://www.youtube.com/watch?v=Te-7u5Xgheo)
-- GoodEggs - [Good Data at Good Eggs](https://dagster.io/blog/good-eggs-0)
-- Geomagical Labs (Ikea) - [Building Customer-Facing Applications with Dagster](https://youtu.be/1buRROJ3m2s)
-- Drizly - [Building shared spaces for data teams at Drizly](https://dagster.io/blog/shared-spaces-at-drizly)
 - Doordash - [Increasing Operational Efficiency with Scalable Forecasting](https://doordash.engineering/2021/08/31/increasing-operational-efficiency-with-scalable-forecasting/)
+- VMware - [Monitoring Driven Development with Dagster](https://youtu.be/fYJBN6MAtbE?t=368)
+- MIT Open Learning - [Running Dagster in Production](https://youtu.be/5wS7BpjtRlI)
+- Discord - [How Discord Uses Open-Source Tools for Scalable Data Orchestration & Transformation](https://discord.com/blog/how-discord-uses-open-source-tools-for-scalable-data-orchestration-transformation)
+- Mapbox - [Incrementally Adopting Dagster at Mapbox](https://dagster.io/blog/incremental-adoption-mapbox)
+- Prezi - [Migrating Data Pipelines to Dagster](https://youtu.be/-zv-wvbJXUM)
+- LINE (Thailand) - [Build Data Application with Dagster](https://www.youtube.com/watch?v=Te-7u5Xgheo)
+- Telekom (T Magenta) - [Scaling Data @Telekom](https://www.youtube.com/watch?v=GX508If6ol0&t=1s)
+- Geomagical Labs (Ikea) - [Building Customer-Facing Applications with Dagster](https://youtu.be/1buRROJ3m2s)
+- GoodEggs - [Good Data at Good Eggs](https://dagster.io/blog/good-eggs-0)
+- Drizly - [Building shared spaces for data teams at Drizly](https://dagster.io/blog/shared-spaces-at-drizly)
 - Bestplace - [Building a Modern Data Analytics Platform with Dagster](https://youtu.be/9WKtBFg2bUo)
 
 For more awesome projects see the community meetings [Community Member Showcase](https://www.youtube.com/playlist?list=PLJPgfrjmzQFMhSPjcbQir3LBZ7aiOpa1m)!
