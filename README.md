@@ -32,6 +32,8 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ### Articles
 
+- [Materializing Multi-Asset REST API Sources with dlt, Dagster, and DuckDB](https://medium.com/@jairus-m/materializing-multi-asset-rest-api-sources-with-dagster-and-dlt-e8da07dcdb83) - Jairus Martinez | May 14, 2025
+- [The Software Development Lifecycle within a Modern Data Engineering Framework](https://medium.com/@jairus-m/the-software-development-lifecycle-within-a-modern-data-engineering-framework-11c44a2f7189) - Jairus Martinez | January 3, 2025
 - [Test for Tags in Dagster](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) - Roel Hogervorst | November 19, 2024
 - [Dagster: all the Ways you can Differentiate Assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) - Roel Hogervorst | November 7, 2024
 - [Orchestrating an AI Agent Prototype with Hex, Dagster, and LangChain](https://blog.republicofdata.io/orchestrating-an-ai-agent-prototype-with-hex-dagster-and-langchain-2/) - Olivier Dupuis | Oct 6, 2024
@@ -62,7 +64,8 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Data Engineering Podcast - Build Maintainable And Testable Data Applications With Dagster - Episode 104](https://www.dataengineeringpodcast.com/dagster-data-applications-episode-104/) _October 28, 2019_: Fist podcast about Dagster where Nick Schrock the founder explains the motivation and the story behind Dagster.
 
 ### Projects
-
+- [pokemon-dagster-dlt](https://github.com/jairus-m/pokemon-dagster-dlt) - Three integration patterns for multi-asset materializatoin using the `dg` CLI with dltHub
+- [dagster-sdlc](https://github.com/jairus-m/dagster-sdlc) - Utilizing dltHub, dbt, & Dagster+ for developing data platforms with software engineering best practices
 - [Geoconnex.us Scheduler](https://github.com/internetofwater/scheduler) - Production web crawler using Dagster with CI/CD and Docker; Harvests US water data into a knowledge graph
 - [Urban growth hotspots across Australia for $15](https://github.com/kubox-ai/urban-extent)
 - [Slack Data backup using Dagster, dlthub, and Iceberg](https://github.com/Kayrnt/dlt-iceberg-slack-backup/tree/main)
