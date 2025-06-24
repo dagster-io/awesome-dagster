@@ -48,7 +48,6 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Dagster: all the Ways you can Differentiate Assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) - Roel Hogervorst | November 7, 2024
 - [Test for Tags in Dagster](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) - Roel Hogervorst | November 19, 2024
 - [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb) - Gbemike Olowe | June 14, 2024
-- [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb) - GBemike Olowe | June 14, 2024
 - [RLHF with Dagster and Modal](https://kyrylai.com/2024/06/10/rlhf-with-dagster-and-modal/) - Kyryl Truskovskyi | June 10, 2024 
 - [Cost efficient alternative to databricks lock-in](https://georgheiler.com/2024/05/02/cost-efficient-alternative-to-databricks-lock-in/) - Georg Heiler, Hernan Picatto | May 3, 2024
 - [Complete Guide To Deploy Multiple Data Pipelines on AWS ECS](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-on-aws-ecs-1b4320064ad0) - Ibrahim Halil Koyuncu | April 24, 2024
