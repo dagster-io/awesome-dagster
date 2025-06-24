@@ -42,7 +42,12 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Automating Data Quality Checks with Dagster and Great Expectations](https://www.analyticsvidhya.com/blog/2024/09/automating-data-quality-checks-with-dagster/)
 - [Data Stack in a Box — New South Wales Department of Education (ft. DuckDB, Dagster, dbt, dlt and Evidence.dev)](https://davidgriffiths-data.medium.com/data-stack-in-a-box-new-south-wales-department-of-education-ft-e2bd12840d3e) - David Griffiths | Jul 21, 2024
 - [Building a po' boy's spatial data pipeline from scratch with Dagster, GeoParquet, & R2](https://alexlowellmartin.com/building-a-po-boys-spatial-data-pipeline-from-scratch-with-dagster-geoparquet-r2-2/) - Alex Lowell Martin | July 16, 2024
-- [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb) - GBemike Olowe | June 14, 2024
+- [Data Stack in a Box — New South Wales Department of Education (ft. DuckDB, Dagster, dbt, dlt and Evidence.dev)](https://davidgriffiths-data.medium.com/data-stack-in-a-box-new-south-wales-department-of-education-ft-e2bd12840d3e) - David Griffiths | Jul 21, 2024
+- [Remove Complexity from Your RAG Applications (Modal, LanceDB, and Dagster)](https://kyrylai.com/2024/09/09/remove-complexity-from-your-rag-applications/) - Kyryl Truskovskyi | Sep 9, 2024
+- [Orchestrating an AI Agent Prototype with Hex, Dagster, and LangChain](https://blog.republicofdata.io/orchestrating-an-ai-agent-prototype-with-hex-dagster-and-langchain-2/) - Olivier Dupuis | Oct 6, 2024
+- [Dagster: all the Ways you can Differentiate Assets](https://blog.rmhogervorst.nl/blog/2024/11/07/dagster-all-the-ways-you-can-differentiate-assets/) - Roel Hogervorst | November 7, 2024
+- [Test for Tags in Dagster](https://blog.rmhogervorst.nl/blog/2024/11/19/test-for-tags-in-dagster/) - Roel Hogervorst | November 19, 2024
+- [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb) - Gbemike Olowe | June 14, 2024
 - [RLHF with Dagster and Modal](https://kyrylai.com/2024/06/10/rlhf-with-dagster-and-modal/) - Kyryl Truskovskyi | June 10, 2024 
 - [Cost efficient alternative to databricks lock-in](https://georgheiler.com/2024/05/02/cost-efficient-alternative-to-databricks-lock-in/) - Georg Heiler, Hernan Picatto | May 3, 2024
 - [Complete Guide To Deploy Multiple Data Pipelines on AWS ECS](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-on-aws-ecs-1b4320064ad0) - Ibrahim Halil Koyuncu | April 24, 2024
@@ -79,6 +84,14 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Bike Rental Data Pipeline with Weather Data](https://github.com/extrm-gn/DE-Bike-rental)
 - [Dagster + Mflix ELT Project](https://github.com/jayzern/dagster-mflix-demo) - A working demo of Dagster, dlt and Snowflake for ELT
 - [Dagster Utilities](https://github.com/caelan-schneider/dagster_utilities) - Basic utilities for handling production vs local Dagster instances, importing jobs and schedules into your Definitions object, and more.
+- [Dagster + Mflix ELT Project](https://github.com/jayzern/dagster-mflix-demo) - A working demo of Dagster, dlt and Snowflake for ELT
+- [Bike Rental Data Pipeline with Weather Data](https://github.com/extrm-gn/DE-Bike-rental)
+- [Orchestrating ML Workloads with Modal and Dagster](https://github.com/cmpadden/dagster-modal-demo)
+- [Filecoin Data Portal - Running Dagster and dbt inside a Github Action](https://github.com/davidgasquez/filecoin-data-portal)
+- [Pipes for PostgreSQL UDF](https://github.com/marijncv/pg-pipes)
+- [NCAA Basketball Stats Dagster Project](https://github.com/EvanZ/ncaam-dagster-jobs) and [Supplementary video](https://www.youtube.com/watch?v=s8F-w91J9t8)
+- [Example Labeling and testing assets with Dagster (with Poetry)](https://github.com/RMHogervorst/dagster_labeling_testing_example)
+- [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://github.com/gbemike/nba_pipeline)
 - [Dagster, dbt, duckdb](https://github.com/sephib/dagster-graph-project) - Dagster, dbt, duckb as the new local MDS
 - [Dagster Demo](https://github.com/kahnwong/dagster-demo) - A working dagster demo with medallion architecture, partitioned data, schedules, assets dependencies, job status alerts and auto-materialize assets.
 - [dagster-nomad Nomad launcher/executor for Dagster](https://github.com/paylead/dagster-nomad)
@@ -94,6 +107,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ## Discussion
 
+### Community
 ### Community
 
 - [Dagster Github Discussion](https://github.com/dagster-io/dagster/discussions) - Discuss features and contributions on GitHub
