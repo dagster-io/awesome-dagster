@@ -44,11 +44,11 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Building a po' boy's spatial data pipeline from scratch with Dagster, GeoParquet, & R2](https://alexlowellmartin.com/building-a-po-boys-spatial-data-pipeline-from-scratch-with-dagster-geoparquet-r2-2/) - Alex Lowell Martin | July 16, 2024
 - [NBA Player Stats Dagster Project with Dagster-DBT Integration](https://medium.com/@gbemikeolowe02/a-step-by-step-guide-to-building-a-data-pipeline-for-nba-player-analysis-9610818d29eb) - GBemike Olowe | June 14, 2024
 - [RLHF with Dagster and Modal](https://kyrylai.com/2024/06/10/rlhf-with-dagster-and-modal/) - Kyryl Truskovskyi | June 10, 2024 
-- [Cost efficient alternative to databricks lock-in](https://georgheiler.com/2024/05/02/cost-efficient-alternative-to-databricks-lock-in/) - Georg Heiler, Hernan Picatto | May 3, 2024
+- [Cost efficient alternative to databricks lock-in](https://georgheiler.com/post/paas-as-implementation-detail/) - Georg Heiler, Hernan Picatto | May 3, 2024
 - [Complete Guide To Deploy Multiple Data Pipelines on AWS ECS](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-on-aws-ecs-1b4320064ad0) - Ibrahim Halil Koyuncu | April 24, 2024
 - ["How to Fine-Tune LLMs in 2024 with Hugging Face", but with Dagster, Modal and Llama3!](https://kyrylai.com/2024/04/21/how-to-fine-tune-llms-in-2024-with-hugging-face-but-with-dagster-and-modal/) - Kyryl Truskovskyi | April 21, 2024
 - [Complete Guide To Deploy Multiple Data Pipelines on Kubernetes Environment](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-to-dagster-on-kubernetes-environment-b0f83a54fce2) - Ibrahim Halil Koyuncu | December 17, 2023
-- [Dagster, dbt, duckdb as new local MDS](https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/) - Aleksandar Milicevic, Georg Heiler | December 11, 2023
+- [Dagster, dbt, duckdb as new local MDS](https://georgheiler.com/post/dbt-duckdb-production/) - Aleksandar Milicevic, Georg Heiler | December 11, 2023
 - [Complete Guide To Deploy Multiple Data Pipelines to Dagster on Docker Environment](https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-to-dagster-on-docker-environment-aae47028a4ce) - Ibrahim Halil Koyuncu | September 21, 2023
 - [The Open Data Stack Distilled into Four Core Tools](https://airbyte.com/blog/modern-open-data-stack-four-core-tools) - Simon Späti | January 3, 2023
 - [Dagster 1.0 Launch Recap](https://airbyte.com/blog/dagster-1-0-launch) - Simon Späti | August 11, 2022
@@ -101,7 +101,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ## Company Projects
 
-- Doordash - [Increasing Operational Efficiency with Scalable Forecasting](https://doordash.engineering/2021/08/31/increasing-operational-efficiency-with-scalable-forecasting/)
+- Doordash - [Increasing Operational Efficiency with Scalable Forecasting](https://careersatdoordash.com/blog/increasing-operational-efficiency-with-scalable-forecasting/)
 - VMware - [Monitoring Driven Development with Dagster](https://youtu.be/fYJBN6MAtbE?t=368)
 - MIT Open Learning - [Running Dagster in Production](https://youtu.be/5wS7BpjtRlI)
 - Discord - [How Discord Uses Open-Source Tools for Scalable Data Orchestration & Transformation](https://discord.com/blog/how-discord-uses-open-source-tools-for-scalable-data-orchestration-transformation)
@@ -111,7 +111,6 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - Telekom (T Magenta) - [Scaling Data @Telekom](https://www.youtube.com/watch?v=GX508If6ol0&t=1s)
 - Geomagical Labs (Ikea) - [Building Customer-Facing Applications with Dagster](https://youtu.be/1buRROJ3m2s)
 - GoodEggs - [Good Data at Good Eggs](https://dagster.io/blog/good-eggs-0)
-- Drizly - [Building shared spaces for data teams at Drizly](https://dagster.io/blog/shared-spaces-at-drizly)
 - Bestplace - [Building a Modern Data Analytics Platform with Dagster](https://youtu.be/9WKtBFg2bUo)
 
 For more awesome projects see the community meetings [Community Member Showcase](https://www.youtube.com/playlist?list=PLJPgfrjmzQFMhSPjcbQir3LBZ7aiOpa1m)!
@@ -119,7 +118,6 @@ For more awesome projects see the community meetings [Community Member Showcase]
 ## Non English Resources
 
 - [Dagster Cloudで運用するdbt : オーケストレーションツールの技術選定、および4ヶ月運用してわかったメリットとデメリット](https://contradiction29.hatenablog.com/entry/2023/12/19/210000)
-- [データ分析基盤をdbt・Snowflakeに移行する](https://tech.algoage.dmm.com/entry/2023/10/04/213954)
 - [ゼロから始めるDagster・すぐに使える実践ガイド](https://zenn.dev/datamarket/articles/dagster_guide)
 - [データオーケストレーションツールDagsterの紹介](https://zenn.dev/datamarket/articles/dagster_cloud)
 - [Dagster Cloudの導入チュートリアル](https://techblog.raksul.com/entry/2022/12/02/101007)
