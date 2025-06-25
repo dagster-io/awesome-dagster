@@ -2,20 +2,30 @@ name: Check Links in README
 
 on:
   schedule:
-    - cron: '0 6 * * *' # every day at 6 AM UTC
+    - cron: '0 0 * * 0'  # at 00:00 on Sunday
   workflow_dispatch:     # allow manual runs
 
 jobs:
   link-checker:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write # required for peter-evans/create-issue-from-file
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Run lychee link checker on README
-        uses: lycheeverse/lychee-action@v1.8.0
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
         with:
+          fail: false
           args: README.md --config .lychee.toml --verbose --no-progress
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
