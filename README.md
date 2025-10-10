@@ -32,7 +32,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ### Articles
 
-- [From Single-Node to Multi-GPU Clusters: How Discord Made Distributed Compute Easy for ML Engineers](https://discord.com/blog/from-single-node-to-multi-gpu-clusters-how-discord-made-distributed-compute-easy-for-ml-engineers)
+- [From Single-Node to Multi-GPU Clusters: How Discord Made Distributed Compute Easy for ML Engineers](https://discord.com/blog/from-single-node-to-multi-gpu-clusters-how-discord-made-distributed-compute-easy-for-ml-engineers) - Serrana Aguirregaray and Nathaniel Jenkins | October 9, 2025
 - [I Orchestrated a Fake History Project - and Ended Up Rebuilding Our ML Stack](https://newsletter.billistician.com/p/i-orchestrated-a-fake-history-project) - Bill Dusch | May 26, 2025
 - [Materializing Multi-Asset REST API Sources with dlt, Dagster, and DuckDB](https://medium.com/@jairus-m/materializing-multi-asset-rest-api-sources-with-dagster-and-dlt-e8da07dcdb83) - Jairus Martinez | May 14, 2025
 - [The Software Development Lifecycle within a Modern Data Engineering Framework](https://medium.com/@jairus-m/the-software-development-lifecycle-within-a-modern-data-engineering-framework-11c44a2f7189) - Jairus Martinez | January 3, 2025
