@@ -92,7 +92,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Portable Data Stack](https://github.com/cnstlungu/portable-data-stack-dagster)
 - [Practical Data Engineering Project](https://github.com/sspaeti-com/practical-data-engineering)
 - [Coches.net Dashboard](https://github.com/franloza/coches-net-dashboard)
-
+- [Dagster, dbt, Delta lake](https://github.com/moritzkoerber/local-data-stack)
 ## Discussion
 
 ### Community
