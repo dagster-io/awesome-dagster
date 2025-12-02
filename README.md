@@ -22,6 +22,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 - [Dagster University: Dagster Essentials](https://courses.dagster.io/courses/dagster-essentials) - A course for learning the basics of Dagster
 - [Dagster University: Dagster & dbt](https://courses.dagster.io/courses/dagster-dbt) - A course on how to use Dagster with dbt
+- [Dagster University: Dagster & ETL](https://courses.dagster.io/courses/dagster-etl) - A course on how to use Dagster for ETL
 - [Dagster University: Testing with Dagster](https://courses.dagster.io/courses/dagster-testing) - A course on how to write tests with Dagster
 - [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform) - A full-sized Dagster project that contains real assets that are used by the Dagster Labs team
 - [Dagster Labs: DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - Example projects shared by the Developer Relations team at Dagster
