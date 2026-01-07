@@ -33,6 +33,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ### Articles
 
+- [Geospatial Data Orchestration: Why Modern GIS Pipelines Require an Asset-Based Approach](https://u11d.com/blog/geospatial-data-orchestration/)  - December 24, 2025
 - [Building a Macro Investor Agent](https://substack.com/@noonanlabs/note/p-183281169?utm_source=notes-share-action&r=3xjosq) - Alex Noonan | January 06, 2026
 - [Setting Up Dagster+ Hybrid Deployment in the EU Region: A Practical Guide](https://medium.com/@swati.jadon0107/setting-up-dagster-hybrid-deployment-in-the-eu-region-a-practical-guide-050314d47444) - Swati Singh | December 24, 2025 
 - [From Single-Node to Multi-GPU Clusters: How Discord Made Distributed Compute Easy for ML Engineers](https://discord.com/blog/from-single-node-to-multi-gpu-clusters-how-discord-made-distributed-compute-easy-for-ml-engineers) - Serrana Aguirregaray and Nathaniel Jenkins | October 9, 2025
