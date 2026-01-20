@@ -30,6 +30,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Data Engineering Vault](https://www.ssp.sh/brain/dagster/) - Data engineering concepts related to Dagster (see graph and backlinks).
 - [Dagster DevRel Project Demos](https://github.com/dagster-io/devrel-project-demos) - A collection of projects and presentations from Dagster's devrel team
 - [A History of Data Orchestration](https://www.dedp.online/part-2/4-ce/bash-stored-procedure-etl-python-script.html) - From bash to stored procedures to ETL to Python scripts including Dagster.
+- [Dagster 101 — The Core Concepts Explained (In 4 Minutes)](https://www.youtube.com/watch?v=k-iQNrtKhjo&t=62s) - A short overview explaining the most important concepts in Dagster.
 
 ### Articles
 
