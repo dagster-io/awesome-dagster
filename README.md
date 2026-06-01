@@ -34,6 +34,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 
 ### Articles
 
+- [From Data Repositories to Production Data Pipelines: Bridging Hugging Face Datasets and Dagster with dagster-hf-datasets](https://huggingface.co/blog/AINovice2005/dagster-hf-datasets) - Parag Ekbote | June 1, 2026
 - [Building a Macro Investor Agent](https://substack.com/@noonanlabs/note/p-183281169?utm_source=notes-share-action&r=3xjosq) - Alex Noonan | January 06, 2026
 - [Geospatial Data Orchestration: Why Modern GIS Pipelines Require an Asset-Based Approach](https://u11d.com/blog/geospatial-data-orchestration/) - Paweł Sławacki | December 24, 2025
 - [Setting Up Dagster+ Hybrid Deployment in the EU Region: A Practical Guide](https://medium.com/@swati.jadon0107/setting-up-dagster-hybrid-deployment-in-the-eu-region-a-practical-guide-050314d47444) - Swati Singh | December 24, 2025 
