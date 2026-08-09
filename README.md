@@ -99,6 +99,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Practical Data Engineering Project](https://github.com/sspaeti-com/practical-data-engineering)
 - [Coches.net Dashboard](https://github.com/franloza/coches-net-dashboard)
 - [Dagster, dbt, Delta lake](https://github.com/moritzkoerber/local-data-stack)
+- [dagster-prometheus-exporter](https://github.com/HirofumiTsuda/dagster-prometheus-exporter) - A standalone Prometheus exporter that polls Dagster's GraphQL API on an interval, instead of pushing to a Pushgateway from inside a run, so it can also observe crashed and queued runs
 ## Discussion
 
 ### Community
