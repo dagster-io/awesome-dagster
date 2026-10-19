@@ -99,6 +99,7 @@ A collection of all things awesome related to the [Dagster](https://dagster.io) 
 - [Practical Data Engineering Project](https://github.com/sspaeti-com/practical-data-engineering)
 - [Coches.net Dashboard](https://github.com/franloza/coches-net-dashboard)
 - [Dagster, dbt, Delta lake](https://github.com/moritzkoerber/local-data-stack)
+- [Kedro-Dagster](https://github.com/stateful-y/kedro-dagster) - A Kedro plugin that translates Kedro projects into Dagster assets, jobs and schedules, so Kedro pipelines can be orchestrated and monitored with Dagster
 ## Discussion
 
 ### Community
